@@ -1,7 +1,5 @@
 # Platooning
 
-10.08.18
-
 The repository contains code and datasets of vehicle platooning scenarios to be investigated via machine learning. 
 
 A presentation introduces the problem with some examples. 
