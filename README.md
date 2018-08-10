@@ -8,6 +8,8 @@ A presentation introduces the problem with some examples.
 
 Two simulation environments are used: 1. differential equations of [2] and 2. plexe. 1. is for string stability of the platoon. 2. deals with collision prediction. Code of 1. is reported in the repository, for 2. please refer to plexe.car2x.org/.
 
+Plexe automation.rar deals with running Plexe under different settings of the parameters. The main script is Plexe-Automatic.sh. The inherent files called by the script are reported for the sake of clarity.
+
 Do not hesitate to contact me: maurizio.mongelli@ieiit.cnr.it.
 
 [1] A. Fermi, M. Mongelli, M. Muselli and E. Ferrari, "Identification of safety regions in vehicle platooning via machine learning," 2018 14th IEEE International Workshop on Factory Communication Systems (WFCS), Imperia, 2018, pp. 1-4.
