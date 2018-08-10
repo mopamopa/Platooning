@@ -2,11 +2,11 @@
 
 10.08.18
 
-The repository contains datasets of vehicle platooning scenarios to be investigated via machine learning [1]. Two simulation environments are used: 1. differential equations of [2] and 2. plexe.
+The repository contains datasets of vehicle platooning scenarios to be investigated via machine learning [1]. 
 
-A presentation is present to introduce the problem and some examples. 
+A presentation introduces the problem with some examples. 
 
-Code of 1. is reported in the repository, for 2. please refer to plexe.car2x.org/.
+Two simulation environments are used: 1. differential equations of [2] and 2. plexe. 1. is for string stability of the platoon. 2. deals with collision prediction. Code of 1. is reported in the repository, for 2. please refer to plexe.car2x.org/.
 
 Do not hesitate to contact me: maurizio.mongelli@ieiit.cnr.it.
 
