@@ -1,5 +1,15 @@
 # Platooning
 
+-----------------------------------
+Please cite: 
+M. Mongelli, E. Ferrari , M. Muselli, A. Fermi, "Performance validation of vehicle platooning via intelligible analytics," IET Cyber-Physical Systems: Theory & Applications, 19 Oct. 2018, DOI:  10.1049/iet-cps.2018.5055.
+https://digital-library.theiet.org/content/journals/10.1049/iet-cps.2018.5055
+
+M. Mongelli, M. Muselli, E. Ferrari, A. Scorzoni "Accellerating PRISM Validation of Vehicle Platooning through Machine Learning," 2019 4th International Conference on System Reliability and Safety (ICSRS 2019), Rome, Italy, 20-22 Nov. 2019.
+
+M. Mongelli, M. Muselli, E. Ferrari, "Achieving zero collision probability in vehicle platooning under cyber attacks via machine learning," 2019 4th International Conference on System Reliability and Safety (ICSRS 2019), Rome, Italy, 20-22 Nov. 2019.
+-----------------------------------
+
 The repository contains code and datasets of vehicle platooning scenarios to be investigated via machine learning. 
 
 A presentation introduces the problem with some examples. 
